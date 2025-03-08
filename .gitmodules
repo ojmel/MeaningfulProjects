@@ -1,3 +1,12 @@
 [submodule "CNNModule"]
 	path = CNNModule
 	url = https://github.com/ojmel/NumberCNN.git
+[submodule "ChoiceWheel"]
+	path = ChoiceWheel
+	url = https://github.com/ojmel/Wheelv6.git
+[submodule "ChimeraPrediction"]
+	path = ChimeraPrediction
+	url = https://github.com/kassonlab/coronavirus-chimera-prediction.git
+[submodule "BlackJack"]
+	path = BlackJack
+	url = https://github.com/ojmel/JS_BlackJack.git
