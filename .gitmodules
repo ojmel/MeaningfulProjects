@@ -10,3 +10,6 @@
 [submodule "BlackJack"]
 	path = BlackJack
 	url = https://github.com/ojmel/JS_BlackJack.git
+[submodule "MonopolyDeal"]
+	path = MonopolyDeal
+	url = https://github.com/ojmel/MonopolyDeal.git
