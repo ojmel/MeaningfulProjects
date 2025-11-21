@@ -8,7 +8,7 @@ This a project where a recreate a simple interation of blackjack in the browser 
 Here I create a module to build a custom convolutional neural network with python. Highlights here are 100% de novo functions from convolution, correlation, propagation all written by hand. My first network was tested on MNIST number dataset with a 92% accuracy. In the future, I want to implemention augmentation functions so that my number predictors works better outside the MNIST dataset and also integrate gpu usage as the training is time-consuming.
 
 ## ChimeraPrediction
-This repository is the majority of my doctarate work in protein/vaccine design with python/c++/bash. Highlights are commandline integration and options, scientific impact/publication.
+This repository is the majority of my doctarate work in where I developed a tool that combined Tensorflow,AlphaFold2, Gromacs, and other bioinformtatics tools with python/c++/bash to help researchers design vaccine antigens and predict their stability. Highlights are commandline integration and options, scientific impact/publication.
 
 ## ChoiceWheel 
 I developed an android application with kotlin/java where you can customize roulette wheels with different choices to help make decisions between them. Highlights are getting familiar with Kotlin which I found to be quite intricate. 
