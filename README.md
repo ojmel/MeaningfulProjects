@@ -1,5 +1,5 @@
 # MeaningfulProjects
-Hello, I'm Jamel Simpson. These are a collection of projects that I found engaging and complex. 
+Hello, I'm Dr. Jamel Simpson. These are a collection of projects that I found engaging and complex. 
 
 ## BlackJack
 This a project where a recreate a simple interation of blackjack in the browser with javascript/html/css. The highlights are my circumvention of javascript's asyncrohonous execution, introducing a sufficient amount of randomness for card draws, and implementation of original art. 
@@ -15,3 +15,6 @@ I developed an android application with kotlin/java where you can customize roul
 
 ## MLB
 Here I created a SQL database with python to house MLB game data back from the last 8 years to train a Linear Regression and fully connected neural network to select winning teams. Highlights are integration of webscraping, SQL, machine learning.
+
+## Monopoly Deal 
+Here I replicated the card game Monopoly Deal as a online-multiplayer game. Highlights are used of rpc procedural calls for real-time multiplayer. Implementation of realtime physics, and 3D modeling of the cards and table in Blender. 
