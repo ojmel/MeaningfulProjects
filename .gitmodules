@@ -13,3 +13,6 @@
 [submodule "MonopolyDeal"]
 	path = MonopolyDeal
 	url = https://github.com/ojmel/MonopolyDeal.git
+[submodule "Draftology"]
+	path = Draftology
+	url = https://github.com/ionxchnge-ship-it/Draftology.git
